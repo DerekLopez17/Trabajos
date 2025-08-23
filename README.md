@@ -5,3 +5,6 @@
 **Profesor**: Alexis Flores
 
 ## Instación de IDE (Eclipse)
+**Paso 1**:
+Descargar Eclipse en su pagina oficial
+
