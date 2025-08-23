@@ -6,5 +6,5 @@
 
 ## Instación de IDE (Eclipse)
 **Paso 1**:
-Descargar Eclipse en su pagina oficial <br>
-![Texto alternativo](images/https://github.com/DerekLopez17/Trabajos/blob/1c17462789946774770ea0cb7ab5bfb8c8652f9a/Capturas/paginaoficial.png)
+<a href="https://eclipseide.org/">Descargar Eclipse en su pagina oficial</a> <br><br>
+![Texto alternativo](https://github.com/DerekLopez17/Trabajos/blob/main/Capturas/paginaoficial.png?raw=true)
