@@ -4,27 +4,24 @@
 **Fecha:** 23-8-2025 <br>
 **Profesor**: Alexis Flores
 
-## Instalación de IDE (Eclipse)
-**Paso 1**: <a href="https://eclipseide.org/">Descargar Eclipse en su pagina oficial</a> <br><br>
-![Texto alternativo](https://github.com/DerekLopez17/Trabajos/blob/main/Capturas/paginaoficial.png?raw=true)
+## IDE y JDK
 
-**Paso 2**: Ejecutar el instalador de Eclipse e instalar <br><br> 
-![Texto alternativo](https://github.com/DerekLopez17/Trabajos/blob/main/Capturas/instalador.png?raw=true)
+**IDE**: Eclipse 2025-09 <br>
+**JDK**: JDK 17
 
-![Texto alternativo](https://github.com/DerekLopez17/Trabajos/blob/main/Capturas/instalando.png?raw=true)
+## Como Ejecutar
 
-## Instalación de JDK (JDK-17)
+1. Abrir el laboratorio en Eclipse.
+2. Verificar que el JDK configurado en Eclipse sea el JDK-17.
+3. Ejecutar la clase Main usando "Run" para observar la ejecución.
 
-**Paso 1**: <a href="https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html">
-Descargar JDK-17 en la pagina oficial de oracle</a> <br><br>
-![Texto alternativo](https://github.com/DerekLopez17/Trabajos/blob/main/Capturas/paginaoficialjdk.png?raw=true)
+## Observaciones
 
-**Paso 2**: Ejecutar el instalador de JDK-17 e instalarlo <br><br>
-![Texto alternativo](https://github.com/DerekLopez17/Trabajos/blob/main/Capturas/instaladorjdk.png?raw=true)
-![Texto alternativo](https://github.com/DerekLopez17/Trabajos/blob/main/Capturas/instalacioncompletajdk.png?raw=true)
-
-**Paso 3**: Ir a Eclipse y colocar el JDK-17 <br><br>
-![Texto alternativo](https://github.com/DerekLopez17/Trabajos/blob/main/Capturas/instalacioncompletajdk.png?raw=true)
+1. Este laboratorio fue desarrollado en Eclipse.
+2. Utilizar un IDE que permita un mejor aprendizaje.
+3. El laboratorio es solo una practica como introducción al modelo MVC.
+4. Se puedran agregar nuevas mejoras al laboratorio.
+5. Al usar Eclipse al principio puede ser confuso y complicado pero con practica sera mas sencillo de utilizar.
 
 
 
