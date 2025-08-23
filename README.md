@@ -19,8 +19,8 @@
 Descargar JDK-17 en la pagina oficial de oracle</a> <br><br>
 ![Texto alternativo](https://github.com/DerekLopez17/Trabajos/blob/main/Capturas/paginaoficialjdk.png?raw=true)
 
-**Paso 2**: Ejecutar el instalador de JDK-17 e instalarlo
-![Texto alternativo](https://github.com/DerekLopez17/Trabajos/blob/main/Capturas/paginaoficialjdk.png?raw=true)
+**Paso 2**: Ejecutar el instalador de JDK-17 e instalarlo <br><br>
+![Texto alternativo](https://github.com/DerekLopez17/Trabajos/blob/main/Capturas/instaladorjdk.png?raw=true)
 
 
 
