@@ -17,7 +17,7 @@
 
 **Paso 1**: <a href="https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html">
 Descargar JDK-17 en la pagina oficial de oracle</a> <br><br>
-![Texto alternativo](https://github.com/DerekLopez17/Trabajos/blob/main/Capturas/instalador.png?raw=true)
+![Texto alternativo](https://github.com/DerekLopez17/Trabajos/blob/main/Capturas/instaladorjdk.png?raw=true)
 
 **Paso 2**: 
 
