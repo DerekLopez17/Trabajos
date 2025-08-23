@@ -6,5 +6,5 @@
 
 ## Instación de IDE (Eclipse)
 **Paso 1**:
-Descargar Eclipse en su pagina oficial
+Descargar Eclipse en su pagina oficial <br>
 ![Texto alternativo](images/paginaoficial.png)
