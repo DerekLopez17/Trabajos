@@ -9,6 +9,9 @@
 <a href="https://eclipseide.org/">Descargar Eclipse en su pagina oficial</a> <br><br>
 ![Texto alternativo](https://github.com/DerekLopez17/Trabajos/blob/main/Capturas/paginaoficial.png?raw=true)
 
-**Paso 2**: Ejecutar el instalador de Eclipse y Seleccionar la versión que diga 
+**Paso 2**: Ejecutar el instalador de Eclipse e instalar <br><br> 
+![Texto alternativo](https://github.com/DerekLopez17/Trabajos/blob/main/Capturas/instalador.png?raw=true)
+
+![Texto alternativo](https://github.com/DerekLopez17/Trabajos/blob/main/Capturas/instalador.png?raw=true)
 
 
